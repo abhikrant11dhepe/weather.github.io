@@ -1,0 +1,10 @@
+body{
+    background-image: url(pxfuel.jpg);
+    background-size: cover;
+}
+
+.translucent-card {
+    background-color: rgba(255, 255, 255, 0.5); /* Adjust the alpha value (0.0 to 1.0) to change the level of transparency */
+  }
+
+  
